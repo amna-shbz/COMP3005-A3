@@ -22,4 +22,4 @@ Run the application with `python script.py`.
 - `deleteStudent(student_id)`: Deletes the record of the student with the specified student_id.
 
 ## Video Demonstration
-https://youtu.be/15gwbNhJoEI
+https://youtu.be/LmzMG_LABpI
